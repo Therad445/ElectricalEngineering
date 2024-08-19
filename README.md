@@ -1,7 +1,7 @@
 # UnversityEducation_ElectricalEngineering
+![2023-09-06_17-24-48](https://github.com/Therad445/ElectricalEngineering/assets/59477654/bdaa124c-dec9-45d8-bee4-d2910620cc45)
 All reports about all works 1 semester of Electrical Engineering
 MustiSim 14
-![2023-09-06_17-24-48](https://github.com/Therad445/ElectricalEngineering/assets/59477654/bdaa124c-dec9-45d8-bee4-d2910620cc45)
 **UnversityEducation_ElectricalEngineering** is a project designed to simulate and manage various aspects of an Electrical Engineering education system within a university. The project showcases object-oriented programming concepts, circuit analysis, and simulations relevant to the field of electrical engineering.
 ## Overview
 The project models an educational system focused on Electrical Engineering, including classes for students, courses, professors, and labs. It provides tools for managing coursework, simulating electrical circuits, and analyzing electrical systems.
